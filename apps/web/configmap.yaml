@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: web
 data:
-  MESSAGE: "update-095227"
+  MESSAGE: "update-101317"
